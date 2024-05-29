@@ -17,4 +17,3 @@ Based on this data, please put together a few slides (max of 4) that address the
 4)  Assume in 2024 you only have 1M units of new supply available to allocate across the 4 cities.  What volume would you allocate for each city (annual total only) and what is your reasoning?
 
 NOTE: Please be prepared to walk through your methodology & calculations.  Please include in an appendix supporting slides that will help provide details of your analysis.
-![image](https://github.com/vamshi694/Apple_Case_Study/assets/36688476/6f00702e-aa9d-4c85-a647-01905789afd8)
